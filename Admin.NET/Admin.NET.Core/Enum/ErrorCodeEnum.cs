@@ -690,4 +690,10 @@ public enum ErrorCodeEnum
     /// </summary>
     [ErrorCodeItemMetadata("身份标识已存在")]
     O1000,
+
+    /// <summary>
+    /// 序列号已存在
+    /// </summary>
+    [ErrorCodeItemMetadata("显卡序列号已存在")]
+    CS001,
 }

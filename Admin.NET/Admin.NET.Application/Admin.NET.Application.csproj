@@ -30,4 +30,8 @@
     <ProjectReference Include="..\Plugins\Admin.NET.Plugin.ReZero\Admin.NET.Plugin.ReZero.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Entity\" />
+  </ItemGroup>
+
 </Project>
